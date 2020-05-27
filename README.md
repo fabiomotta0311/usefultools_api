@@ -20,3 +20,8 @@ mongo -uroot -pexample <<EOF
   })
 EOF
 ***
+
+Step 3: Start the server
+****
+npm run dev
+****
